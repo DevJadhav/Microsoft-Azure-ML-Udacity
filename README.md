@@ -1,3 +1,3 @@
-# Using AzureML to Predict Malware Infections
+# AZURE ML NANODEGREE PROJECTS
 
-This repo is my project submission for the Capstone of the [Udacity Azure Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333).
+This repo is my project submission of the [Udacity Azure Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333).
